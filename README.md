@@ -78,3 +78,4 @@ Some of the limitations of the savings tracker app is:
 4. Authentication and profile management.
 5. Alerts and notifications.
 6. Adding a REST API backend server and a persistent database.
+7. Code Maintenance - modularization of the components to adhere to DRY and K.I.S.S principles.
