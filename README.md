@@ -65,6 +65,7 @@ Some of the limitations of the savings tracker app is:
 2. No charts for better visual cues
 3. The UI is not appealing, however, it's still user friendly for an MVP.
 4. Web Accessibility not implemented.
+5. Not thoroughly tested.
 
 
 ## Improvements (to be made with more time):
